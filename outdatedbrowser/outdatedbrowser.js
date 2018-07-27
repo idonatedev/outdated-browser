@@ -237,4 +237,4 @@ var outdatedBrowser = function(options) {
 ////////END of outdatedBrowser function
 };
 
-window.outdatedbrowser = outdatedBrowser;
+window.outdatedBrowser = outdatedBrowser;
